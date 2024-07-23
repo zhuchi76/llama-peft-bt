@@ -3,7 +3,7 @@
 ### Clone the repository
 
 ```bash
-git clone --recurse-submodules git@github.com:sunfu-chou/llama-peft-bt.git
+git clone --recurse-submodules git@github.com:zhuchi76/llama-peft-bt.git
 ```
 
 ### Pull the docker image
